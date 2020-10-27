@@ -1,2 +1,1 @@
-# netvis-api
-Netvis Telekom API
+# Netvis Telekom PHP API
